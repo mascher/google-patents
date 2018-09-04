@@ -2,7 +2,7 @@
 import pandas as pd
 
 #Modify the query string and the filename as needed
-query = 'heart attack'
+query = 'v-nova'
 file_name = 'data.csv'
 
 #Functions to Scrape 
